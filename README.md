@@ -108,4 +108,4 @@ chaseback/
 
 ---
 
-*Designed with ❤️ by Yteewrld*
+*Designed with ❤️ by elic01 & YteeWrld*
